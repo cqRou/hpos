@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## hpos
 基于 vue+elementUI+springboot 做的一个 模仿'猪八戒'的服务外包平台
 
